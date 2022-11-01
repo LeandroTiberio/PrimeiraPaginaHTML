@@ -1,0 +1,22 @@
+.Organiza
+{
+    max-width: 30%;
+    margin: 0 auto;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.Itens
+{
+    margin: 40px auto;
+    max-width: 80vw;
+}
+
+.CX
+{
+    width: 35vw;
+    height: 100px;
+    margin: 1vw 2.5vw;
+    background-color: royalblue;
+    float:left;
+}
