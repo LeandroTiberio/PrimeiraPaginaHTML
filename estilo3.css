@@ -1,0 +1,25 @@
+.Organizando
+{
+    max-width: 40%;
+    margin: 0 auto;
+    background-color: crimson;
+    text-align: center;
+}
+
+.Conteudo
+{
+    margin: 50px auto;
+    max-width: 60vw;
+}
+
+.Caixa
+{
+    width: 15vw;
+    height: 200px;
+    margin: 1vw 2.5vw;
+    background-color:aqua;
+    float: left;
+}
+
+
+
